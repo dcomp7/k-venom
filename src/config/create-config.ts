@@ -142,7 +142,7 @@ export interface CreateConfig {
 export const defaultOptions: CreateConfig = {
   folderNameToken: 'tokens',
   mkdirFolderToken: '',
-  headless: 'old',
+  headless: 'new',
   devtools: false,
   debug: false,
   logQR: true,
